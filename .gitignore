@@ -1,0 +1,23 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.swp
+
+# Ignore uploads and user-generated content
+uploads/*
+!uploads/default.png
+
+# Ignore environment and sensitive files
+.env
+.env.*
+*.bak
+*.tmp
+
+# Ignore log files
+*.log
