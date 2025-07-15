@@ -17,26 +17,6 @@ A modern, animated, and responsive web-based contact book application. Effortles
 
 ---
 
-## 🎬 Screenshots
-
-<p align="center><strong>Main</strong></p>
-
-![Main](screenshots/main.png)
-
-<p align="center><strong>Add</strong></p>
-
-![Add](screenshots/add.png)
-
-<p align="center><strong>View</strong></p>
-
-![View](screenshots/view.png)
-
-<p align="center><strong>Edit</strong></p>
-
-![Edit](screenshots/edit.png)
-
----
-
 ## 🛠️ Technologies Used
 - **PHP** (backend logic)
 - **MySQL** (database)
@@ -50,7 +30,6 @@ A modern, animated, and responsive web-based contact book application. Effortles
 ## 🚀 Setup Instructions
 
 1. **Clone the repository**
-   ```
 2. **Set up your local server:**
    - Use [XAMPP] or similar (Apache + MySQL)
    - Place the project folder in your `htdocs` directory
@@ -79,9 +58,33 @@ A modern, animated, and responsive web-based contact book application. Effortles
 
 ## 📚 Usage
 - **Add Contact:** Click "Add New Contact", fill the form, and save.
-- **Edit/Delete:** Use the action buttons in the table.
+- **Edit/Delete:** Use the action buttons in the table to perform their respective operations.
 - **View:** Click the eye icon to see details in a modal.
 - **Search:** Use the search bar to filter by last name or phone.
 - **Show All:** Click "SHOW ALL" to reset the search and view all contacts.
+
+---
+
+## 🎬 Screenshots
+
+<p align="center"><strong>Main</strong></p>
+
+![Main](screenshots/main.png)
+
+<p align="center"><strong>Add</strong></p>
+
+![Add](screenshots/add.png)
+
+<p align="center"><strong>View</strong></p>
+
+![View](screenshots/view.png)
+
+<p align="center"><strong>Edit</strong></p>
+
+![Edit](screenshots/edit.png)
+
+---
+
+⚠️Images shown in the screenshots are not inlcuded in the repository. I used random screenshots I had from local files.
 
 ---
